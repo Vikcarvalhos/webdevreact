@@ -2,7 +2,6 @@ function Contato(){
 
     return(
         <>
-        
         </>
     )
 }
